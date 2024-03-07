@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['*']
 CORS_ORIGIN_ALLOW_ALL = True
 # CORS_ALLOW_ALL_ORIGINS=True
 
-CSRF_TRUSTED_ORIGINS = ['https://smart-care-lc1e.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://careancestry.onrender.com']
 
 
 # Application definition
